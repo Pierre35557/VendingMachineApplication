@@ -1,0 +1,6 @@
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\bin\Debug\CoinCalculation.exe.config
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\bin\Debug\CoinCalculation.exe
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\bin\Debug\CoinCalculation.pdb
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\obj\Debug\CoinCalculation.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\obj\Debug\CoinCalculation.exe
+C:\Users\georg\source\repos\CoinCalculation\CoinCalculation\obj\Debug\CoinCalculation.pdb
